@@ -1,7 +1,9 @@
 ## Hola krommpañiero 👋
 
 ☕ Siempre es bueno iniciar con un café...
-
+|                                                                      |                                                                      |
+|----------------------------------------------------------------------|----------------------------------------------------------------------|
+|<img src = "pcitures/pets/capybara.svg" width="70px" height="70px"/>  | <img src = "pcitures/pets/fishman.svg" width="70px" height="70px"/> |
 
 <!--
 **joseamg-k/joseamg-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
